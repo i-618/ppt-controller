@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ppt-controller/static/css/main.c52038bc.css",
+    "main.js": "/ppt-controller/static/js/main.226223dc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ppt-controller/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ppt-controller/index.html",
+    "main.c52038bc.css.map": "/ppt-controller/static/css/main.c52038bc.css.map",
+    "main.226223dc.js.map": "/ppt-controller/static/js/main.226223dc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ppt-controller/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52038bc.css",
+    "static/js/main.226223dc.js"
+  ]
+}
